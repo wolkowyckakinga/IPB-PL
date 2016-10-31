@@ -1,0 +1,26 @@
+- włącz kalkulartor
+- wyświetl na wyświetlaczu liczbę 0
+--wpisz liczby z zakresu -> 0-9 -> użyj " , " by zapisać postać dziesiętną
+- wyświetl wprowadzoną liczbę
+-- maksymalnie wyświetlona może mieć 16 znaków liczbowych 
+-wybierz działanie
+--"+" dodaj liczbę
+--"-" odejmij liczbę
+--"*" pomnóż liczbę
+--"/" podziel liczbę -> gdy liczba/0 wyświetl: Nie można dzielić przez 0
+--- wpisz kolejną liczbę z zakresu -> 0-9
+---- wybierz kolejne działanie lub wybierz znak "="
+-----wyświetl wynik na wyświetlaczu
+--"+-" wyświetl liczbę przeciwną do  liczby podanej 
+--"sqrt" -pierwiastkuj liczbę -> gdy liczba < 0 wyświetl: Nieprawidłowe dane wejściowe
+--"%" zamień daną wynik na procent
+--"1/x" podaj odwrotność liczby
+--"="  podaj wynik
+--"CE" zeruj tylko ostanią wprowadzoną liczbę
+--"M+" dodaj liczbę z wyświetlacza do pamięci wbudowanej kalkulatora
+--"M-"  odejmij liczbę z wyświetlacza od pamięci wbudowanej kalkulatora
+--"MC" oczyścij pamięć kalkulatora
+--"MS"  oczyścij pamięć kalkulatora, zapisz wartość z wyświetlacza do pamięci 
+--"MR" przywróć na wyświetlacz liczby zapisane w pamięci kalkulatora
+--"<-" usuń ostatnią wprowadzoną liczbę
+--"C" wyczyść wyświetlacz kalkulatora
