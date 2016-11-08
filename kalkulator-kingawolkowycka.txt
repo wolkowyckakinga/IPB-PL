@@ -1,0 +1,27 @@
+"kalkulator" Use case
+- w³¹cz kalkulartor
+- wyœwietl na wyœwietlaczu liczbê 0
+--wpisz liczby z zakresu -> 0-9 -> u¿yj " , " by zapisaæ postaæ dziesiêtn¹
+- wyœwietl wprowadzon¹ liczbê
+-- maksymalnie wyœwietlona mo¿e mieæ 16 znaków liczbowych 
+-wybierz dzia³anie
+--"+" dodaj liczbê
+--"-" odejmij liczbê
+--"*" pomnó¿ liczbê
+--"/" podziel liczbê -> gdy liczba/0 wyœwietl: Nie mo¿na dzieliæ przez 0
+--- wpisz kolejn¹ liczbê z zakresu -> 0-9
+---- wybierz kolejne dzia³anie lub wybierz znak "="
+-----wyœwietl wynik na wyœwietlaczu
+--"+-" wyœwietl liczbê przeciwn¹ do  liczby podanej 
+--"sqrt" -pierwiastkuj liczbê -> gdy liczba < 0 wyœwietl: Nieprawid³owe dane wejœciowe
+--"%" zamieñ dan¹ wynik na procent
+--"1/x" podaj odwrotnoœæ liczby
+--"="  podaj wynik
+--"CE" zeruj tylko ostani¹ wprowadzon¹ liczbê
+--"M+" dodaj liczbê z wyœwietlacza do pamiêci wbudowanej kalkulatora
+--"M-"  odejmij liczbê z wyœwietlacza od pamiêci wbudowanej kalkulatora
+--"MC" oczyœcij pamiêæ kalkulatora
+--"MS"  oczyœcij pamiêæ kalkulatora, zapisz wartoœæ z wyœwietlacza do pamiêci 
+--"MR" przywróæ na wyœwietlacz liczby zapisane w pamiêci kalkulatora
+--"<-" usuñ ostatni¹ wprowadzon¹ liczbê
+--"C" wyczyœæ wyœwietlacz kalkulatora
